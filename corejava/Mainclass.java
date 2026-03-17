@@ -9,7 +9,6 @@ public class Mainclass {
     }
 
 }
-
 class Dog {
     String name;
     int age;
