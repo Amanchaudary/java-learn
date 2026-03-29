@@ -1,6 +1,6 @@
-package oops3.learnEncapsulation;
+package learnEncapsulation;
 
-import oops3.LearnPackage.Person;
+import LearnPackage.Person;
 
 public class MainInEncapsulation {
     public static void main(String[] args) {
