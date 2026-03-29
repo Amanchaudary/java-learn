@@ -1,4 +1,4 @@
-package oops3.LearnPackage;
+package LearnPackage;
 
 public class Person {
    private  int age;
