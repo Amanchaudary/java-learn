@@ -1,6 +1,5 @@
 public class Demo3 {
     public static void main(String[] args) {
-        
     }
 }
 // multiple inheritance==> by interface
