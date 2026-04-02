@@ -1,6 +1,6 @@
 package Abstraction_and_polymorphism;
 
-public class Demo {
+public class Demo1 {
      public static void main(String[] args) {
         Car car = new FuelCar();
         car.start();

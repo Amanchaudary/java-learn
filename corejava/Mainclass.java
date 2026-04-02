@@ -21,7 +21,3 @@ class Dog {
     }
 
 }
-
-class Cat {
-
-}
