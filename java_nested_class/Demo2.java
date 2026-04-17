@@ -12,7 +12,7 @@ public class Demo2 {
        // Outer.Inner inner = new Outer().new Inner();
 
         inner.fun();
-        inner.fun2();
+        // inner.fun2();
         Outer.Inner.fun2();
     }
 }
